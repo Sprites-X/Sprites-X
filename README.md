@@ -8,13 +8,11 @@ Currently looking for a **co-op / internship** placement in Bangkok — AI Engin
 
 ## 🔧 What I work with
 
-**Languages** · Python 
+**Language** · Python
 
 **AI / CV** · PyTorch · YOLO · EasyOCR · ONNX · OpenVINO · OpenCV
 
 **Robotics** · ROS2 Humble · Nav2 · Isaac Sim · TurtleBot3
-
-**Backend / Web** · Node.js 
 
 **Tools** · Linux (Ubuntu) · Docker · Git · VS Code
 
@@ -29,11 +27,6 @@ Benchmarking and optimizing YOLO inference on Intel edge hardware.
 - Running on an Intel NUC14 Pro with Arc iGPU
 
 `ONNX` `OpenVINO` `Quantization` `Benchmarking`
-
-### 🤖 ROS2 Robotics
-Coursework and projects in ROS2 Humble — publisher/subscriber nodes, custom services, Nav2 navigation, and a TurtleBot3 person-detection system combining odometry-triggered service calls with YOLO detection.
-
-`ROS2` `Python` `Nav2` `Gazebo`
 
 ---
 
