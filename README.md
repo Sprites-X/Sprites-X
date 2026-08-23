@@ -37,8 +37,3 @@ Benchmarking and optimizing YOLO inference on Intel edge hardware.
 
 ---
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sprites-X&show_icons=true&theme=tokyonight&hide_border=true)
-
-</div>
