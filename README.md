@@ -20,7 +20,7 @@ Currently looking for a **co-op / internship** placement in Bangkok — AI Engin
 
 ## 📌 Projects
 
-### ⚡ Edge Inference Optimization *(in progress)*
+### ⚡ YOLO Inference Optimization *(in progress)*
 Benchmarking and optimizing YOLO inference on Intel edge hardware.
 - Pipeline: PyTorch → ONNX → OpenVINO → INT8 quantization
 - Measuring latency, throughput, and accuracy trade-offs at each stage
