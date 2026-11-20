@@ -52,4 +52,4 @@ DevOps role: containerized the React and Express services and built a CI/CD pipe
 ## 📫 Contact
 
 - 📧 phongsakonsithong@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/phongsakon-sithong)
+- 💼 [LinkedIn](https://www.linkedin.com/in/phongsakon-sithong-275539430)
